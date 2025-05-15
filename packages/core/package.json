@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/lidofinance/solido-sdk#readme",
   "dependencies": {
-    "borsh": "^0.7.0"
+    "borsh": "^1.0.0"
   },
   "devDependencies": {
     "@solana/buffer-layout": "4.0.0",
